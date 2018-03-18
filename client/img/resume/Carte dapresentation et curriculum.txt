@@ -43,7 +43,7 @@ tauvares@gmail.com
 COMPETENCES ET COMPETENCES:
 
 ?? Langages informatiques: Javascript (Proficient), PHP (Proficient), Java (intermédiaire), C ++ (intermédiaire), Delphi (Expert), ASP (Expert), ASP.NET, VB, ASP.NET, C #, CSS, HTML, JavaScript, SQL;
-?? Systèmes de base de données: MySQL, Oracle, MS SQL Server, PostgreSQL, MongoDB;
+?? Systèmes de base de données: MySQL, Oracle, MS SQL Server, PostgreSQL;
 ?? Systèmes d'exploitation: Windows, Linux, FreeBSD;
 ?? Frameworks: Laravel, Zend, Doctrine, Simphonie, Spring, Struts, Hibernate, Ant;
 ?? Applications informatiques: Eclipse, Borland Delphi, Adobe Dreamweaver, Microsoft Visual Studio, Adobe Photoshop;
